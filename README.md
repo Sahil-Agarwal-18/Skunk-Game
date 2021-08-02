@@ -1,4 +1,5 @@
 # Skunk-Game
+
 This is a dice game. It is the second game I have made using JavaScript
 It is called skunk similar to the commercial version
 I will look to make more dice games such as this in the future
